@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(stdAlgoV2)
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE main.cpp)
+add_executable(stdAlgoV2 ${SOURCE})

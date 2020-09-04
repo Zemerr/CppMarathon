@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(meadSong)
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE main.cpp meadSong.cpp)
+add_executable(meadSong ${SOURCE})

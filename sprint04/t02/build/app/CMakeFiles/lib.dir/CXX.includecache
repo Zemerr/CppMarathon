@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ostanislav/Desktop/sprint04/t02/app/src/Dragoborn.cpp
+Dragoborn.h
+/Users/ostanislav/Desktop/sprint04/t02/app/src/Dragoborn.h
+map
+-
+iostream
+-
+functional
+-
+
+/Users/ostanislav/Desktop/sprint04/t02/app/src/Dragoborn.h
+

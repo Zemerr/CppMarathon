@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 2.8)
+project(bookSaver)
+include_directories(src)
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE main.cpp)
+add_executable(bookSaver ${SOURCE})
+add_subdirectory(src)
+target_link_libraries(bookSaver lib)

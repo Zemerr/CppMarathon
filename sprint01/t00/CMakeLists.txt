@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(simpleSort)
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE main.cpp ./src/simpleSort.h)
+add_executable(simpleSort ${SOURCE})

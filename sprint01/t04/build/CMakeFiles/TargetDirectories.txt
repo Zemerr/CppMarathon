@@ -1,0 +1,3 @@
+/Users/ostanislav/Desktop/sprint01/t04/build/CMakeFiles/rebuild_cache.dir
+/Users/ostanislav/Desktop/sprint01/t04/build/CMakeFiles/edit_cache.dir
+/Users/ostanislav/Desktop/sprint01/t04/build/CMakeFiles/stdAlgoV1.dir

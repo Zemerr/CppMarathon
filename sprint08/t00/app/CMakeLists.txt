@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(battle)
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE ./src/Map.cpp)
+add_library(lib STATIC ${SOURCE})

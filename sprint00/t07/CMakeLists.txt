@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(inventory)
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE main.cpp ./src/command.cpp ./src/header.h ./src/inventory.cpp)
+add_executable(inventory ${SOURCE})

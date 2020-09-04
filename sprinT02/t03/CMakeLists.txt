@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 2.8)
+project(tesLibrary)
+include_directories(src)
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE main.cpp)
+add_executable(tesLibrary ${SOURCE})
+add_subdirectory(src)
+target_link_libraries(tesLibrary lib)

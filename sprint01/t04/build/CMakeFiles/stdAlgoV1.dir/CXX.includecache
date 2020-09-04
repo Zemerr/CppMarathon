@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ostanislav/Desktop/sprint01/t04/main.cpp
+./src/stdAlgoV1.h
+/Users/ostanislav/Desktop/sprint01/t04/src/stdAlgoV1.h
+
+/Users/ostanislav/Desktop/sprint01/t04/src/stdAlgoV1.h
+iostream
+-
+algorithm
+-
+fstream
+-
+string
+-
+forward_list
+-
+

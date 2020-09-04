@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc liblib.a CMakeFiles/lib.dir/src/Axe.cpp.o CMakeFiles/lib.dir/src/Sword.cpp.o CMakeFiles/lib.dir/src/ImperialSoldier.cpp.o CMakeFiles/lib.dir/src/StormcloakSoldier.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib liblib.a

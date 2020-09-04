@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project(lib_uniqueWords)
+set(CMAKE_CXX_STANDARD 17)
+set(SOURCE lib.cpp)
+add_library(lib STATIC ${SOURCE})
